@@ -7,6 +7,6 @@ AnquanSSL, or 安全SSL in mandarine, which means security `tls certificates`, i
 
 ## Co-operation
 
-- Reseller Partners: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=Reseller%20application&body=My%20website%20is%3A%20https%3A%2F%2F%20%0AMonthly%20volume%20is%3A%20%0ABrands%20of%20products%20demanded%3A%0A), or try our whitelabel [salesfront](https://www.anquanssl.com/dashboard/sales-front) or integrate our [API or WHMCS addons](https://www.anquanssl.com/dashboard/api-credentials); or
-- Domain Registers: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=Domain%20registers%20application&body=My%20website%20is%3A%20https%3A%2F%2F%20%0AMonthly%20volume%20is%3A%20%0ABrands%20of%20products%20demanded%3A%0A); or
-- Certificate Authorities: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=CA%20Co-operation&body=We%20are%0AMy%20website%20is%3A%20https%3A%2F%2F%20%0AWe%20Offer).
+- Reseller Partners: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=Reseller%20application&body=Our%20website%20is%3A%20https%3A%2F%2F___________%20%0AMonthly%20volume%20is%3A%20%0ABrands%20of%20products%20demanded%3A%0A), or try our whitelabel [salesfront](https://www.anquanssl.com/dashboard/sales-front) or integrate our [API or WHMCS addons](https://www.anquanssl.com/dashboard/api-credentials); or
+- Domain Registers: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=Domain%20registers%20application&body=Our%20website%20is%3A%20https%3A%2F%2F___________%20%0AMonthly%20volume%20is%3A%20%0ABrands%20of%20products%20demanded%3A%0A); or
+- Certificate Authorities: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=CA%20Co-operation&body=We%20are%20_________CA%0AOur%20website%20is%3A%20https%3A%2F%2F___________%20%0AWe%20Offer%20_______________).
