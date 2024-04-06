@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.anquanssl.com?__utm_from=github-org-profile" target="_blank"><img src="/anquanssl/.github/blob/main/profile/profile.png" width="400"></a></p>
+<p align="center"><a href="https://www.anquanssl.com?__utm_from=github-org-profile" target="_blank"><img src="/profile/profile.png" width="400"></a></p>
 
 ## AnquanSSL
 
