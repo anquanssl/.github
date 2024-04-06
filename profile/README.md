@@ -7,6 +7,6 @@ AnquanSSL, or 安全SSL in mandarine, which means security `tls certificates`, i
 
 ## Co-operation
 
-- Reseller Partners: Contact sales@anquanssl.com, or try our whitelabel [salesfront](https://www.anquanssl.com/dashboard/sales-front) or integrate our [API or WHMCS addons](https://www.anquanssl.com/dashboard/api-credentials)
-- Domain Registers: Contact sales@anquanssl.com,
-- Certificate Authorities: Contact sales@anquanssl.com,
+- Reseller Partners: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=Reseller%20application&body=My%20website%20is%3A%20https%3A%2F%2F%20%3Cbr%2F%3EMonthly%20volume%20is%3A%20%3Cbr%2F%3EBrands%20of%20products%20demanded%3A), or try our whitelabel [salesfront](https://www.anquanssl.com/dashboard/sales-front) or integrate our [API or WHMCS addons](https://www.anquanssl.com/dashboard/api-credentials); or
+- Domain Registers: Contact sales@anquanssl.com; or
+- Certificate Authorities: Contact sales@anquanssl.com.
