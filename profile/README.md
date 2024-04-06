@@ -3,7 +3,7 @@
 
 ## AnquanSSL
 
-AnquanSSL, which means `security ssl` ( `安全 SSL` in mandarine. We are founded in 2018, to expand cheaper, safer and greater tls utlizing experiences in Great-China market.
+AnquanSSL, which means `security ssl` (`安全 SSL`) in mandarine. We are founded in 2018, to expand cheaper, safer and greater tls utlizing experiences in Great-China market.
 
 ## Co-operation
 
