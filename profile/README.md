@@ -1,9 +1,5 @@
-<p align="center">
-
-[<img src="/profile/logo_dark.png" width="600" height="85"/>](https://www.anquanssl.com?__utm_from=github-org-profile#gh-dark-mode-only)
-[<img src="/profile/logo_light.png" width="600" height="85"/>](https://www.anquanssl.com?__utm_from=github-org-profile#gh-light-mode-only)
-
-</p>
+[<p align="center"><img src="/profile/logo_dark.png" width="600" height="85"/></p>](https://www.anquanssl.com?__utm_from=github-org-profile#gh-dark-mode-only)
+[<p align="center"><img src="/profile/logo_light.png" width="600" height="85"/></p>](https://www.anquanssl.com?__utm_from=github-org-profile#gh-light-mode-only)
 
 ## AnquanSSL
 
