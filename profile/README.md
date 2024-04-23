@@ -10,3 +10,15 @@ AnquanSSL, aka "Security SSL", also known as "安全 SSL" in Mandarin, founded i
 - **Reseller Program**: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=Reseller%20application&body=Our%20website%20is%3A%20https%3A%2F%2F________________%20%0AMonthly%20volume%20_________certs.%3A%20%0ABrands%20of%20products%20demanded%3A______________%0A), or try our whitelabel [salesfront](https://www.anquanssl.com/dashboard/sales-front) or integrate our [whmcs addons or self-programing API interfaces](https://www.anquanssl.com/dashboard/api-credentials); or
 - **Domain Registrars or Webhosting Program**: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=Domain%20registers%20application&body=Our%20website%20is%3A%20https%3A%2F%2F_____________%20%0AMonthly%20volume%20__________certs.%20%0ABrands%20of%20products%20demanded%3A%______________%0A); or
 - **Certificate Authority**: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=CA%20Co-operation&body=We%20are%20____________CA.%0AOur%20website%20is%3A%20https%3A%2F%2F_______________.%20%0AWe%20Offer%20__________________).
+
+## Developers
+
+We prepared several SDK for developers, or resellers with capabilities to R&D:
+
+- [SDK for PHP](https://github.com/anquanssl/sdk)
+- [SDK for Python](https://github.com/anquanssl/python-sdk)
+- [SDK for NodeJS](https://github.com/anquanssl/nodejs-sdk)
+- [SDK for Golang](https://github.com/anquanssl/golang-sdk)
+- [SDK for Java](https://github.com/anquanssl/java-sdk)
+
+If occurs any issues or bugs to integrate, please report at each repositories issues list and we will attach our R&D to solve for you.
