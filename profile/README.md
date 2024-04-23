@@ -11,7 +11,12 @@ AnquanSSL, aka "Security SSL", also known as "安全 SSL" in Mandarin, founded i
 - **Domain Registrars or Webhosting Program**: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=Domain%20registers%20application&body=Our%20website%20is%3A%20https%3A%2F%2F_____________%20%0AMonthly%20volume%20__________certs.%20%0ABrands%20of%20products%20demanded%3A%______________%0A); or
 - **Certificate Authority**: Contact [sales@anquanssl.com](mailto:sales@anquanssl.com?subject=CA%20Co-operation&body=We%20are%20____________CA.%0AOur%20website%20is%3A%20https%3A%2F%2F_______________.%20%0AWe%20Offer%20__________________).
 
-## Developers
+## Addon Modules
+
+- [WHMCS addon](https://www.anquanssl.com/downloads/module-addons/whmcs-ssl-modules.zip) [Tutorial](https://www.anquanssl.com/downloads/module-addons/whmcs-ssl-modules-tutorial.pdf)
+- [IDCSmart addon](https://www.anquanssl.com/downloads/module-addons/idcsmart-ssl-modules.zip) [Tutorial](https://www.anquanssl.com/downloads/module-addons/idcsmart-ssl-modules-tutorial.pdf)
+
+## SDK
 
 We prepared several SDK for developers, or resellers with capabilities to R&D:
 
