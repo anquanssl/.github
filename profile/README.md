@@ -13,8 +13,8 @@ AnquanSSL, aka "Security SSL", also known as "安全 SSL" in Mandarin, founded i
 
 ## Addon Modules
 
-- **WHMCS addon:** [Download](https://www.anquanssl.com/downloads/module-addons/whmcs-ssl-modules.zip) ([Installation and configuration tutorial](https://www.anquanssl.com/downloads/module-addons/whmcs-ssl-modules-tutorial.pdf))
-- **IDCSmart addon** [Download](https://www.anquanssl.com/downloads/module-addons/idcsmart-ssl-modules.zip) ([Installation and configuration tutorial](https://www.anquanssl.com/downloads/module-addons/idcsmart-ssl-modules-tutorial.pdf))
+- [<img alt="WHMCS" align="center" src="/profile/3rd/whmcs-logo.svg" height="20">](?#gh-light-mode-only)[<img alt="WHMCS" align="center" src="/profile/3rd/whmcs-logo-dark.svg" height="20">](?#gh-dark-mode-only) **addon:** [Download](https://www.anquanssl.com/downloads/module-addons/whmcs-ssl-modules.zip) ([Installation and configuration tutorial](https://www.anquanssl.com/downloads/module-addons/whmcs-ssl-modules-tutorial.pdf))
+- [<img alt="IDCSmart" align="center" src="/profile/3rd/idcsmart-logo.svg" height="16">](?#gh-light-mode-only)[<img alt="IDCSmart" align="center" src="/profile/3rd/idcsmart-logo-dark.svg" height="16">](?#gh-dark-mode-only) **addon** [Download](https://www.anquanssl.com/downloads/module-addons/idcsmart-ssl-modules.zip) ([Installation and configuration tutorial](https://www.anquanssl.com/downloads/module-addons/idcsmart-ssl-modules-tutorial.pdf))
 
 ## SDK
 
