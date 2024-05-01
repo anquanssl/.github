@@ -3,7 +3,7 @@
 
 ## AnquanSSL
 
-AnquanSSL, aka "Security SSL", also known as "安全 SSL" in Mandarin, founded in 2018, and our mission is providing affordable, secure, and enhanced TLS utilization experiences in the Greate China market.
+AnquanSSL, A.K.A "Security SSL", also known as "安全 SSL" in Mandarin, founded in 2018, and our mission is providing affordable, secure, and enhanced TLS utilization experiences in the Greate China market.
 
 ## Co-operation
 
@@ -27,4 +27,4 @@ We have prepared several SDKs for developers or, resellers with capabilities to 
 - <a href="#sdks"><img alt="Golang" align="center" src="https://www.anquanssl.com/assets/logo/program-languages/golang.svg" height="14"></a> | [SDK for Golang](https://github.com/anquanssl/golang-sdk) | [Submit issue](https://github.com/anquanssl/golang-sdk/issues/new/choose)
 - <a href="#sdks"><img alt="Java" align="center" src="https://www.anquanssl.com/assets/logo/program-languages/java.svg" height="20"></a> | [SDK for Java](https://github.com/anquanssl/java-sdk) | [Submit issue](https://github.com/anquanssl/java-sdk/issues/new/choose)
 
-If occurs any issues or bugs to integrate, please report at each repositories issues list and we will assign our R&D to solve for you.
+If occurs any issues or bugs to integrate, please report to issues at specify repository, and we will assign our R&D engineer to solve that.
